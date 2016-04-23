@@ -3,4 +3,8 @@ Git is free software distributed under the GPL.
 Git tracks changes.
 my first gihub programmer
 Creating a new branch is quick.
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+Creating a new branch is quick and simple.
+=======
+Creating a new branch is quick AND simple.
+>>>>>>> featurel
